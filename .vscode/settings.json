@@ -1,0 +1,11 @@
+{
+    "markdown.styles": [],
+    "rest-client.environmentVariables": {
+        "$shared": {},
+        "local": {
+            "host": "127.0.0.1:3000",
+            "version": "v2"
+        },
+        "production": {}
+    }
+}
